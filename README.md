@@ -6,8 +6,6 @@
 * Run the `docker-compose up -d`.
 
 ```shell
-cp sample.env .env
-// modify sample.env as needed
 docker-compose up -d
 // visit localhost
 ```
