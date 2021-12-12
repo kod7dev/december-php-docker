@@ -1,4 +1,3 @@
-#  LAMP stack built with Docker Compose
 ##  Installation
  
 * Clone this repository on your local computer
